@@ -28,10 +28,6 @@
 		color: #2d3047;
 		}
 		
-		/* LOGO */
-		.logo {
-		font-size: 32px;
-		}
 		
 		/* NAVBAR MENU */
 		.menu {
@@ -51,7 +47,7 @@
 		}
 		
 		/* DROPDOWN MENU */
-		.experiences {
+		.navdrop {
 		position: relative; 
 		}
 		
@@ -78,9 +74,20 @@
 		background-color: #A3E0C6;
 		}
 		
-		.experiences:hover .dropdown {
+		.navdrop:hover .dropdown {
 		display: block;
 		}
+
+
+	
+		  
+
+		
+
+
+
+
+		
 
 /* RESPONSIVE NAVBAR MENU STARTS */
 
@@ -138,6 +145,7 @@ input[type=checkbox] {
 	-color: #4c9e9e;
 	}
 	}
+
 
 
 
