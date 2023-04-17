@@ -1,6 +1,6 @@
 * {
-	margin: 1;
-	padding: 1;
+	margin: 0;
+	padding: 0;
 	box-sizing: border-box;
 }
 
@@ -16,9 +16,12 @@ li {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 20px;
+	padding: 1px;
 	background-color: #A3E0C6 ;
 	color: #2d3047;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
 		
 .nav-links a {
@@ -163,7 +166,6 @@ input[type=checkbox] {
 	-color: #4c9e9e;
 	}
 	}
-
 
 
 
