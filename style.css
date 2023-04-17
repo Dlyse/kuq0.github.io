@@ -1,12 +1,9 @@
 * {
-	margin: 0;
-	padding: 0;
+	margin: 1;
+	padding: 1;
 	box-sizing: border-box;
 }
 
-body {
-	font-family: 'Poppins', sans-serif;
-}
 	
 a {
 	text-decoration: none;
@@ -173,8 +170,16 @@ input[type=checkbox] {
 
 body {
 	background-color: #2d3047;
+	font-family: 'Poppins', sans-serif;
 	
 }
+
+.responsive-image {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
+  }
 
 h1 {
 	color: #ceefe0;
@@ -196,6 +201,21 @@ h2 {
     height: 50vh;
 }
 
+
+code {
+	background-color: #2d3047;
+	color: #E0DCF5;
+	padding: 0.01em 0.4em;
+	font-family: Consolas, "Courier New", monospace;
+  }
+  
+pre {
+	background-color: #2d3047;
+	color: #CAE0F6;
+	padding: 1em;
+	font-family: Consolas, "Courier New", monospace;
+	white-space: pre-wrap;
+  }
 
 
 
