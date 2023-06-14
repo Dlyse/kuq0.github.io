@@ -156,6 +156,10 @@ input[type=checkbox] {
 	}
 	}
 
+.about{
+	margin-left:3vw;
+	line-height: 2vh;
+}
 body {
 	background-color: #2d3047;
     color: #CBD5EF ;
@@ -176,7 +180,7 @@ body {
 	
 }
 .compheader{
-	font-size: 2rem;
+	font-size: 1rem;
 	font-weight: 600;
 	position: relative;
 	margin-left:3vw;
@@ -189,32 +193,66 @@ body {
 summary {
 	display: block;
 }
+
+h1{
+	font-size: 2.4rem;
+	font-weight: 300;
+	position: relative;
+	margin-left:3vw;
+	align-items: center;
+	justify-content: center;
+	text-align:center;
+}
+
+
 .container{
 	align-items: center;
 	justify-content: center;
+	margin-top: -5%;
 }
 
+
 .spinuppng{
-	width: 50vw;
+	width: 47vw;
 	float: left;
 }
 .spinupfield{
-	width: 50vw;
+	width: 47vw;
 	float: right;
-	
+	padding-right: 3vw;
 }
-
-
-
+.isodynamic{
+	width: 45vw;
+	float: left;
+	padding-right: 3vw;
+}
 
 
 .textr{
-	padding-top: 20%;
+	padding-top: 6%;
 	text-align: left;
+	margin-right: 3%;
+	font-weight: 200;
+	margin-left: 3%;
+	font-size: 1rem;
+
 }
 .textl{
-	padding-top: 20%;
-	text-align: right;
+	padding-top: 2%;
+	text-align: left;
+	margin-left: 3%;
+	margin-right: 3%;
+	font-size: 1rem;
+	font-weight: 200;
+
+}
+.textr2{
+	padding-top: 5%;
+	text-align: left;
+	margin-right: 3%;
+	font-weight: 200;
+	margin-left: 3%;
+	font-size: 1rem;
 
 }
 
