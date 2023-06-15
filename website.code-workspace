@@ -1,13 +1,13 @@
 {
-  "folders": [
-    {
-      "path": "."
-    },
-    {
-      "path": "photo"
-    }
-  ],
-  "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "kuq0.github.io"
-  }
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "photo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
 }
