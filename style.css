@@ -202,6 +202,7 @@ h1{
 	align-items: center;
 	justify-content: center;
 	text-align:center;
+	width: 100vw;
 }
 
 
@@ -213,17 +214,23 @@ h1{
 
 
 .spinuppng{
-	width: 47vw;
+	width: 45vw;
 	float: left;
 }
 .spinupfield{
-	width: 47vw;
+	width: 53vw;
 	float: right;
 	padding-right: 3vw;
 }
 .isodynamic{
 	width: 45vw;
 	float: left;
+	padding-right: 3vw;
+}
+.firstpng{
+	width: 45vw;
+	float: left;
+	padding-left: 3vw;
 	padding-right: 3vw;
 }
 
@@ -247,11 +254,11 @@ h1{
 
 }
 .textr2{
-	padding-top: 5%;
+	padding-top: 2%;
 	text-align: left;
 	margin-right: 3%;
 	font-weight: 200;
-	margin-left: 3%;
+
 	font-size: 1rem;
 
 }
