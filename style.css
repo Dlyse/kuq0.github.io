@@ -204,6 +204,7 @@ h1{
 	justify-content: center;
 	text-align:center;
 	width: 100%
+
 }
 
 
@@ -218,7 +219,7 @@ h1{
 
 
 .spinuppng{
-	width: 35vw;
+	width: 37vw;
 	min-width: 400px;
 	float: left;
 	margin-bottom: 1%;
@@ -227,35 +228,148 @@ h1{
 
 .isodynamic{
 	width: 35vw;
-	min-width: 400px;
+	min-width: 500px;
 	float: right;
 	padding-right: 3vw;
 	margin-left: 3%;
-	
 }
+
 .firstpng{
 	width: 45vw;
-	max-width: 500px;
+	max-width: 400px;
 	float: left;
 	padding-left: 3vw;
 	padding-right: 3vw;
 	margin-top: -6%;
-	margin-bottom: -20% ;
+	margin-bottom: -12% ;
 
 }
 
 .ev3png{
-	width: 35vw;
-	min-width: 400px;
+	width: 20vw;
+	min-width: 200px;
 	float: right;
 	padding-right: 3vw;
 	margin-left: 3%;
 }
 
+.cargo{
+	width: 20vw;
+	min-width: 200px;
+	float: right;
+	padding-right: 3vw;
+	margin-left: 3%;
+}
+
+.spike{
+	width: 20vw;
+	min-width: 200px;
+	float: left;
+	margin-left: 3%;
+	padding-right: 3vw;
+}
+
+.sensor{
+	width: 20vw;
+	min-width: 100px;
+	max-width: 160px;
+	float: right;
+	padding-right: 3vw;
+}
+.move{
+	width: 20vw;
+	min-width: 200px;
+	max-width: 300px;
+	float: right;
+	margin-left: -3%;
+	margin-right: -3%;
+	margin-bottom: -3%;
+}
+.dish{
+	width: 94vw;
+	min-width: 400px;
+	float: left;
+	margin-left: 3vw;
+	margin-right: 3vw;
+}
+.s{
+	width: 30vw;
+	min-width: 250px;
+	float: right;
+	padding-right: 3vw;
+	margin-left: 3%;
+	margin-top: 3%;
+}
+.flare{
+	width: 30vw;
+	min-width: 250px;
+	float: right;
+	padding-right: 3vw;
+	margin-left: 3%;
+}
+.flight{
+	width: 10vw;
+	min-width: 200px;
+	float: left;
+	margin-left: 3vw;
+	margin-right: 3vw;
+}
+.d12{
+	width: 30vw;
+	min-width: 240px;
+	float: right;
+	padding-right: 3vw;
+	margin-left: 3%;
+	margin-bottom: 3%;
+}
+.elec{
+	width: 30vw;
+	min-width: 240px;
+	float: right;
+	padding-right: 3vw;
+	margin-left: 3%;
+}
+
+.mq3{
+	width: 30vw;
+	padding-left: 3vw;
+}
+.iss{
+	width: 30vw;
+	padding-left: 3vw;
+}
+.m1{
+	width: 30vw;
+	padding-left: 3vw;
+}
+.m2{
+	width: 30vw;
+	padding-left: 3vw;
+}
+.chassis{
+	width: 30vw;
+	padding-left: 3vw;
+	margin-top: -20%;
+}
+.tur{
+	width: 30vw;
+	padding-left: 3vw;
+}
+.tr{
+	width: 30vw;
+	padding-left: 3vw;
+}
+.car{
+	width: 30vw;
+	padding-left: 3vw;
+}
+
+
+
 
 
 .textr{
-	padding-top: 6%;
+	padding-top: 4%;
 	text-align: left;
 
 	font-weight: 200;
@@ -284,8 +398,7 @@ h1{
 	margin-right: 3%;
 	font-weight: 200;
 	font-size: 1rem;
-	margin: 3%;
-
+	margin-left: 3%;
 }
 
 .textl2{
@@ -296,8 +409,21 @@ h1{
 	font-size: 1rem;
 	font-weight: 200;
 	margin-top: 20px;
-	
+}
+.textl3{
+	text-align: left;
+	margin-left:3%;
+	margin-right:3%;
+	margin-bottom:3%;
+	font-size: 1rem;
+	font-weight: 200;
+	margin-top: 3%;
+}
 
+.list{
+	margin-left: 3%;
+	width: 94%;
+	margin-right: 3%;
 }
 
 
