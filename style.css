@@ -289,9 +289,10 @@ h1{
 .dish{
 	width: 94vw;
 	min-width: 400px;
-	float: left;
+	max-width: 100%;
 	margin-left: 3vw;
-	margin-right: 3vw;
+	height: auto;
+	float: left;
 }
 .s{
 	width: 30vw;
@@ -333,8 +334,8 @@ h1{
 
 .collage{
 	width: 94vw;
-	margin-left: 3vw;
-	margin-right: 3vw;
+	max-width: 100%;
+	height: auto;
 	margin-top: 5%;
 
 }
