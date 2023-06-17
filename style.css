@@ -169,7 +169,7 @@ body {
 }
 .box {
     background-color: #fcfbfb;
-    width:100%;
+    width:100vw;
     height: 40vh;      
 }
 .duccsize{
