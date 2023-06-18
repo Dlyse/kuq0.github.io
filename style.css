@@ -333,20 +333,25 @@ h1{
 }
 
 .collage{
-	width: 94vw;
-	max-width: 100%;
+	width: 100vw;
 	height: auto;
 	margin-top: 5%;
+	justify-content: center;
 
 }
 
 .lll{
 	width: 94vw;
-	min-height: 15vw;
+	min-height: 165px;
 }
 .sss{
 	width: 94vw;
-	min-height: 25vw;
+	min-height: 295px;
+}
+
+.ccc{
+	width: 94vw;
+	min-height: 450px;
 }
 
 
