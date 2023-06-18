@@ -116,7 +116,7 @@ input[type=checkbox] {
 	}
 	
 	/* APPLYING MEDIA QUERIES */
-	@media (max-width: 768px) {
+	@media (max-width: 800px) {
 	.menu {
 	display:none;
 	position: absolute;
@@ -125,6 +125,10 @@ input[type=checkbox] {
 	left: 0;
 	text-align: center;
 	padding: 16px 0;
+	}
+
+	.dropdown {
+		display:none;
 	}
 	
 	.menu li:hover {
@@ -229,7 +233,7 @@ h1{
 
 .isodynamic{
 	width: 35vw;
-	min-width: 500px;
+	min-width: 370px;
 	float: right;
 	padding-right: 3vw;
 	margin-left: 3%;
@@ -287,10 +291,11 @@ h1{
 	margin-bottom: -3%;
 }
 .dish{
-	width: 94vw;
-	min-width: 400px;
+	width: 89vw;
+	min-width: 350px;
 	max-width: 100%;
 	margin-left: 3vw;
+	margin-right: 3vw;
 	height: auto;
 	float: left;
 }
