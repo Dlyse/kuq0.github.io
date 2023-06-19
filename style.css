@@ -150,6 +150,8 @@ input[type=checkbox] {
 	display: block;
 	}
 
+	/* leaving this here so if i want to change in the future i can just deleate display none */
+
 	
     .dropdown {
 	left: 50%;
