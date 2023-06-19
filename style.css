@@ -109,15 +109,15 @@ input[type=checkbox] {
 	display: none;
 	} 
 	
-	/* HAMBURGER MENU */
-	.hamburger {
+/* HAMBURGER MENU */
+.hamburger {
 	display: none;
 	font-size: 24px;
 	user-select: none;
 	}
 	
-	/* APPLYING MEDIA QUERIES */
-	@media (max-width: 800px) {
+/* APPLYING MEDIA QUERIES */
+@media (max-width: 800px) {
 	.menu {
 	display:none;
 	position: absolute;
@@ -126,11 +126,7 @@ input[type=checkbox] {
 	left: 0;
 	text-align: center;
 	padding: 16px 0;
-	}
-
-	
-
-	
+	}	
 	.menu li:hover {
 	display: inline-block;
 	background-color:#4c9e9e;
@@ -166,6 +162,8 @@ input[type=checkbox] {
 	color: #4c9e9e;
 	}
 }
+
+
 
 .about{
 	margin-left:3vw;
