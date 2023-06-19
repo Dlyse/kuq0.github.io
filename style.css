@@ -65,7 +65,7 @@ li {
 		animation-timing-function: ease-in-out;
 		animation-fill-mode: forwards;
 		opacity: 0;
-		z-index: 2; 
+		z-index: 2;
 		}
 		
 		.dropdown li + li {
@@ -155,6 +155,7 @@ input[type=checkbox] {
 	left: 50%;
 	top: 30px;
 	transform: translateX(35%);
+	display: none !important;
 	}
 	
 	.dropdown li:hover {
