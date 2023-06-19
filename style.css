@@ -49,7 +49,7 @@ li {
 		
 		/* DROPDOWN MENU */
 		.navdrop {
-		position: relative; 
+		position: relative;
 		}
 		
 		.dropdown {
@@ -65,6 +65,7 @@ li {
 		animation-timing-function: ease-in-out;
 		animation-fill-mode: forwards;
 		opacity: 0;
+		z-index: 2; 
 		}
 		
 		.dropdown li + li {
@@ -338,7 +339,7 @@ h1{
 }
 
 .collage{
-	width: 100vw;
+	max-width: 100%;
 	height: auto;
 	margin-top: 5%;
 	justify-content: center;
