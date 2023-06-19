@@ -128,9 +128,8 @@ input[type=checkbox] {
 	padding: 16px 0;
 	}
 
-	.dropdown {
-		display:none;
-	}
+	
+
 	
 	.menu li:hover {
 	display: inline-block;
@@ -138,20 +137,25 @@ input[type=checkbox] {
 	transition: 0.3s ease;
 	}
 	
+	
+	
 	.menu li + li {
 	margin-top: 12px;
 	}
+
 	
 
 	input[type=checkbox]:checked ~ .menu {
 	display: block;
 	}
+
 	
 	.hamburger {
 	display: block;
-}
+	}
+
 	
-.dropdown {
+    .dropdown {
 	left: 50%;
 	top: 30px;
 	transform: translateX(35%);
@@ -160,7 +164,7 @@ input[type=checkbox] {
 	.dropdown li:hover {
 	color: #4c9e9e;
 	}
-	}
+}
 
 .about{
 	margin-left:3vw;
